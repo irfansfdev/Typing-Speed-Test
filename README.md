@@ -308,9 +308,8 @@ The application will then be available on your local development server.
 
 Try the application online:
 
-### 👉 [Typing Speed Test — Live Demo](YOUR_VERCEL_LINK_HERE)
+### 👉 [Typing Speed Test — Live Demo](https://typing-speed-test-muhammad-irfan1.vercel.app/)
 
-> Replace `YOUR_VERCEL_LINK_HERE` with the actual Vercel deployment URL after deployment.
 
 ---
 
